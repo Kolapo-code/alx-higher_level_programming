@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <PyObject.h>
+#include <PyBytesObject.h>
 #include <stddef.h>
 #include <stdlib.h>
 
