@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <PyBytesObject.h>
 #include <stddef.h>
 #include <stdlib.h>
 
