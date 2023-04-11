@@ -4,7 +4,7 @@ inheritamne
 '''
 
 class MyList(list):
-    
+
 
     """ Class that inherits the attributes references of class list
     Args:
@@ -12,9 +12,9 @@ class MyList(list):
     """
 
 
-    
+
     def print_sorted(self):
-       '''
+        '''
        print sorted list
        '''
         sorted_list = self.copy()
